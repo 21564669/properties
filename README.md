@@ -1,2 +1,2 @@
-# property
-it provides a Property class to read properties file
+# properties
+it provides a Properties class to read properties file
